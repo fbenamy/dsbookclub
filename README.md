@@ -5,7 +5,7 @@ One day I realized that I wanted to read a text book and that a friend in the fi
 
 The text book in question is __Statistical Rethinking by Richard McElreath (second edition)__. (He also has videos from the course in lecture form is you're more of an auditory learner: https://github.com/rmcelreath/statrethinking_winter2019)
 
-The group hasn't officially started yet, but once we get rolling, the format will be a suggested reading pace of a chapter a week with an every other week virtual "book club" session. 
+The group hasn't officially started yet, but once we get rolling, the format will be a suggested reading pace of 2 chapters a week with an every other week virtual "book club" session. 
 
 
 You can join the slack here: codeforphilly.com/chat?channel=dsbookclub (you'll need to sign up with the Code For Philly workspace). 
