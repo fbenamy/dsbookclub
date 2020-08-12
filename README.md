@@ -3,7 +3,7 @@ __A cohort-based reading group for people data scientists and statisticians.__
 
 One day I realized that I wanted to read a text book and that a friend in the field also wanted to read that text book, and his friends as well. Thus an idea was born to try and create a cohort-based reading group to read a text book. 
 
-The text book in question is __Statistical Rethinking by Richard McElreath__. 
+The text book in question is __Statistical Rethinking by Richard McElreath__. (He also has videos from the course in lecture form is you're more of an auditory learner: https://github.com/rmcelreath/statrethinking_winter2019)
 
 The group hasn't officially started yet, but once we get rolling, the format will be a suggested reading pace of a chapter a week with an every other week virtual "book club" session. 
 
