@@ -7,7 +7,11 @@ The text book in question is __Statistical Rethinking by Richard McElreath (seco
 
 The group hasn't officially started yet, but once we get rolling, the format will be a suggested reading pace of 2 chapters a week with an every other week virtual "book club" session. 
 
+The unofficial start date is the Monday, August 31st. 
 
-You can join the slack here: codeforphilly.com/chat?channel=dsbookclub (you'll need to sign up with the Code For Philly workspace). 
+If you are not interested in joining the slack, but are interested in the discussion sessions, you can shoot me an email at faith.benamy@gmail.com. 
+
+
+You can join the slack here: www.codeforphilly.com/chat?channel=dsbookclub (you'll need to sign up with the Code For Philly workspace). 
 
 I'm going to keep updating this document and posting to the slack with more details and we finalize who is joining the group. Discussion questions for the virtual book club will be posted in this repo. 
