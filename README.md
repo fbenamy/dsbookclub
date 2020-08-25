@@ -5,16 +5,14 @@ One day I realized that I wanted to read a text book and that a friend in the fi
 
 The text book in question is __Statistical Rethinking by Richard McElreath (second edition)__. (He also has videos from the course in lecture form is you're more of an auditory learner: https://github.com/rmcelreath/statrethinking_winter2019)
 
-The group hasn't officially started yet, but once we get rolling, the format will be a suggested reading pace of 2 chapters a week with an every other week virtual "book club" session. 
+The suggested reading pace will follow the 10 week course, but each reading group can choose their own adventure. 
 
-The unofficial start date is the Monday, August 31st. 
+The official start date is __September 8__, the day after Labor Day in the US. 
 
-If you are not interested in joining the slack, but are interested in the discussion sessions, you can shoot me an email at faith.benamy@gmail.com. 
+There's a slack with a channels for each individual channel to discuss each chapter. 
+Please fill out the google form to get a link to join the slack. 
 
-
-You can join the slack here: www.codeforphilly.com/chat?channel=dsbookclub (you'll need to sign up with the Code For Philly workspace). 
-
-I'm going to keep updating this document and posting to the slack with more details and we finalize who is joining the group. Discussion questions for the virtual book club will be posted in this repo. 
+I'm going to keep updating this document and posting to the slack with more details. Discussion questions suggestions for the virtual book club will be posted in this repo. 
 
 The time it took me to read each chapter is listed below to help you plan. These estimates do not include the "Practice" section
 
@@ -24,7 +22,7 @@ The time it took me to read each chapter is listed below to help you plan. These
 |  2. Small Worlds and Large Worlds | 27 | |
 |  3. Sampling the Imaginary | 19 | |
 |  4. Geocentric Models | 49 | |
-|  5. The Many Variables and Spruious Waffles | 36 | | 
+|  5. The Many Variables and Spurious Waffles | 36 | | 
 |  6. The Haunted DAG & The Casual Terror | 28 | |
 |  7. Ulysses' Compass | 44 | |
 |  8. Conditional Manatees | 23 | |
