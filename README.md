@@ -10,7 +10,7 @@ The suggested reading pace will follow the 10 week course, but each reading grou
 The official start date is __September 8__, the day after Labor Day in the US. 
 
 There's a slack with a channels for each individual channel to discuss each chapter. 
-Please fill out the google form to get a link to join the slack. 
+Please fill out the google form to get a link to join the slack: https://forms.gle/2P9TetkGsgugQ9aG6
 
 I'm going to keep updating this document and posting to the slack with more details. Discussion questions suggestions for the virtual book club will be posted in this repo. 
 
